@@ -3,7 +3,7 @@
 - 👀 I’m passinate about new technologies, always exploring for more
 - 💻 I just graduated professional degree in computer systems engineering
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me : el03azzaoui@gmail.com
+- 📫 How to reach me : azzaoui03dev@gmail.com
 
 
 <!---
