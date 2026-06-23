@@ -13,6 +13,7 @@
 ### 🚀 About Me
 
 - 🎓 Freshly graduated in **Computer Systems Engineering**
+- 📊 Graduating with a degree in **Data Science** this year
 - 👀 Passionate about new technologies — always exploring, always learning
 - 💞️ Looking to collaborate on interesting projects
 - 🌱 Currently leveling up my **full-stack & data** skills
@@ -31,6 +32,13 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 <br>
